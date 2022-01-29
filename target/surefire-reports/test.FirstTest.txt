@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.FirstTest
+-------------------------------------------------------------------------------
+Tests run: 33, Failures: 1, Errors: 0, Skipped: 32, Time elapsed: 1.219 s <<< FAILURE! - in test.FirstTest
+beforeTest(test.FirstTest)  Time elapsed: 0.903 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable must exist: C:\Users\niell\IdeaProjects\Dec2021SeleniumProject1.0\src\Driver\chromedriver.exe
+	at test.FirstTest.beforeTest(FirstTest.java:17)
+
